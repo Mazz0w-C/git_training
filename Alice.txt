@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is second line now. I am changed Alice. GOgog
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. Wow
+>>>>>>> refs/remotes/origin/master
